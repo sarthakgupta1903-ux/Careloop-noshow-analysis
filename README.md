@@ -5,7 +5,7 @@
 - **Part 1 — Data cleaning.** Cleaned 990 appointments, including 218 no-shows (22.0%).
 - **Part 2 — SQL analysis.** Bookings made 31 or more days ahead had a 60.5% no-show rate (26 of 43).
 - **Part 3 — Risk model.** Logistic regression achieved a test ROC-AUC of 0.789 and flagged 49 of 198 test bookings at a threshold of 0.35.
-- **Part 4 — Follow-up notes. All 9 nonblank notes passed validation and matched the expected categories. Five of the 10 appointments had no reminder, including both appointments classified as forgot_or_no_reminder.
+- **Part 4 — Follow-up notes.** All 9 nonblank notes passed validation and matched the expected categories. Five of the 10 appointments had no reminder, including both appointments classified as forgot_or_no_reminder.
 
 ## Recommendation
 
